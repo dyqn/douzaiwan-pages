@@ -1,0 +1,8 @@
+{
+  "name": "douzaiwan-pages",
+  "installCommand": "",
+  "buildCommand": "",
+  "assets": {
+    "directory": "./"
+  }
+}
